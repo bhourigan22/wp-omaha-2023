@@ -1,3 +1,12 @@
-html h1, html h2 {
-	font-size: 72px!important;
+$theme-light-blue: #58C7E6;
+$theme-navy-blue: #0E2F45;
+$theme-orange: #EF953A;
+$theme-coral: #E04045;
+$theme-green: #49A02E;
+
+
+/* HEADINGS */
+html h1 {
+	color:$theme-navy-blue;	
 }
+
