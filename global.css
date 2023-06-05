@@ -27,7 +27,7 @@ nav.main-navigation .menu li.menu-item a {
 	color:#0E2F45!important;
 }
 
-html body nav.main-navigation .menu {
+html body nav.main-navigation ul.menu {
 	border-bottom: 4px solid #0E2F45;
     	border-top: 4px solid #0E2F45;
 }
