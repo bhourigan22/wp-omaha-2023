@@ -8,5 +8,6 @@ $theme-green: #49A02E;
 /* HEADINGS */
 html h1 {
 	color:$theme-navy-blue;	
+	font-size:64px;
 }
 
