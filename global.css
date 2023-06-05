@@ -1,13 +1,13 @@
 /* HEADINGS */
-html h1 {
+html h1, html h1 > a  {
 	color:#0E2F45!important;	
 	font-size:64px!important;
 }
-html h2 {
+html h2, html h2 > a {
 	color:#0E2F45!important;	
 	font-size:48px!important;
 }
-html h3 {
+html h3, html h3 > a {
 	color:#58C7E6!important;	
 	font-size:32px!important;
 }
