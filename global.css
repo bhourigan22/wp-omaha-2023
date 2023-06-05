@@ -1,3 +1,13 @@
+/*
+THEME COLORS: 
+Light blue : #58C7E6
+Navy blue: #0E2F45
+Orange: #EF953A
+Coral :#E04045
+Green : #49A02E
+*/
+
+
 /* HEADINGS */
 html h1, html h1 > a  {
 	color:#0E2F45!important;	
@@ -15,5 +25,10 @@ html h3, html h3 > a {
 nav.main-navigation .menu li.menu-item a {
 	background:#EF953A!important;
 	color:#0E2F45!important;
+}
+
+html body nav.main-navigation .menu {
+	border-bottom: 4px solid #0E2F45;
+    	border-top: 4px solid #0E2F45;
 }
 
