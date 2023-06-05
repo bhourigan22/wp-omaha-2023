@@ -12,3 +12,8 @@ html h3, html h3 > a {
 	font-size:32px!important;
 }
 
+nav.main-navigation .menu li.menu-item a {
+	background:#EF953A!important;
+	color:#0E2F45!important;
+}
+
